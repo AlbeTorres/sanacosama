@@ -4,7 +4,7 @@ Actúa como un productor y redactor experto en contenido digital y podcasts de l
 - Usa **Markdown estricto** compatible con Obsidian.
 - Mantén un tono narrativo ágil, crítico y con toques de humor o curiosidad, ideal para un stream en vivo.
 - La sección de "Puntos clave" debe ser extremadamente fácil de leer mientras hablo (usa negritas para enfatizar conceptos).
--  Usa **Callouts de Obsidian** (ej: > [!quote]) para secciones de interacción.
+- Usa **Callouts de Obsidian** (ej: > [!quote]) para secciones de interacción.
 
 **Estructura de la Plantilla a seguir:**
 
